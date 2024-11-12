@@ -5,6 +5,8 @@
     let artworkId;
   
     onMount(async () => {
+        // Scroll to the top of the page when the component mounts
+    window.scrollTo({ top: 0, behavior: 'smooth' });
         const currentRoute = window.location.hash;
         artworkId = currentRoute.split('/').pop(); // Get the last part of the URL
       const response = await fetch('/data.json');

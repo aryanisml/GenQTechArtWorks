@@ -64,7 +64,8 @@
     <div class="md:hidden bg-light-bg dark:bg-dark-bg shadow-lg" id="mobile-menu" role="menu">
       <div class="flex flex-col items-start space-y-4 px-4 py-4">
         <a use:link href="/" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Home">Home</a>
-        <a use:link href="/artworks" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Artworks">ARTWORKS</a>
+        <a use:link href="/artworks" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Artworks">Artworks</a>
+        <a use:link href="/artists" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Artists">Artists</a>
         <a use:link href="/contact" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Contact">Contact</a>
       </div>
     </div>
