@@ -5,11 +5,13 @@
   import Home from './routes/Home.svelte';
   import Footer from './components/Footer.svelte';
   import Artworks from './routes/Artworks.svelte';
+  import Contact from './components/Contact.svelte';
 
   // Define routes
   const routes = {
     '/': Home,
-    '/artworks': Artworks
+    '/artworks': Artworks,
+    '/contact': Contact,
   };
 
   onMount(() => {
