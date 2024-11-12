@@ -22,7 +22,7 @@
   <style>
     .scroll-to-top {
       position: fixed;
-      bottom: 87px; /* Positioned above potential chat icon */
+      bottom: 100px; /* Positioned above potential chat icon */
       right: 20px;
       width: 50px;
       height: 50px;
