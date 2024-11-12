@@ -1,94 +1,242 @@
 {
-    "heroSection": {
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2020/12/saket-installation-min.jpg",
-      "mobileImageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/mobile-slide-NEW2-1024x1003.jpg",
-      "title": "Modern & Contemporary Art",
-      "description": "Delhi-based art gallery presents a platform for renowned and emerging artists to display their works. Gallerie Nvya nurtures art lovers and artists and exhibits captivating Modern and Contemporary works of art. Nvya is fascinating both for art enthusiasts and for connoisseurs."
+  "heroSection": {
+    "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2020/12/saket-installation-min.jpg",
+    "mobileImageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/mobile-slide-NEW2-1024x1003.jpg",
+    "title": "Modern & Contemporary Art",
+    "description": "Delhi-based art gallery presents a platform for renowned and emerging artists to display their works. Gallerie Nvya nurtures art lovers and artists and exhibits captivating Modern and Contemporary works of art. Nvya is fascinating both for art enthusiasts and for connoisseurs."
+  },
+  "artworks": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "artist": "Paresh Maity",
+      "title": "SIENA",
+      "medium": "Oil and acrylic on canvas",
+      "dimensions": "84\" x 120\"",
+      "style": "Abstract",
+      "size": "Large",
+      "layout": "Landscape"
     },
-    "artworks": [
-      {
-        "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
-        "artist": "Paresh Maity",
-        "title": "SIENA",
-        "medium": "Oil and acrylic on canvas",
-        "dimensions": "84\" x 120\""
-      },
-      {
-        "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Jayasri-Burman-Prakriti-72-x-60-inches-Acrylic-on-canvas-2023-720x940.png",
-        "artist": "Jayasri Burman",
-        "title": "Prakriti 101",
-        "medium": "Acrylic on canvas",
-        "dimensions": "72\" x 60\""
-      },
-      {
-        "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Manu-Parekh-MP-0025-Evening-light-60-x-60-inches-Oil-on-canvas-2012-r-720x940.png",
-        "artist": "Manu Parekh",
-        "title": "Sun between two temples",
-        "medium": "Acrylic on canvas",
-        "dimensions": "48\" x 60\""
-      },
-      {
-        "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Akbar-Padamsee-AP-0001-Untitled-15-x-23-inches-Watercolour-on-paper-2006-720x940.png",
-        "artist": "Akbar Padamsee",
-        "title": "Untitled",
-        "medium": "Watercolour on paper",
-        "dimensions": "15\" x 23\""
-      },
-      {
-        "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2021/07/ap0003-akbar-720x940.png",
-        "artist": "Jayasri Burman",
-        "title": "Prakriti",
-        "medium": "Acrylic on canvas",
-        "dimensions": "72\" x 60\""
-      },
-      {
-        "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2023/02/Manu-Parekh-MP-0044-Evening-Prayer-40-x-80-inches-Acrylic-on-canvas-2022-720x940.png",
-        "artist": "Manu Parekh",
-        "title": "Evening Prayer",
-        "medium": "Acrylic on canvas",
-        "dimensions": "40\" x 80\""
-      }
-    ],
-    "galleryInfo": {
-      "title": "GALLERIE NVYA",
-      "subtitle": "Most Dynamic Art Gallery in India",
-      "description": "Gallerie Nvya is among the finest art galleries in India. Art has no boundaries and there is no limit to artistic caliber in India. Therefore, we make sure to manage the best art gallery in India that brings the veterans and descendants of the league on one platform. The variety of artwork at our gallery is vast, which takes us to the best art galleries in India. Our art gallery in Delhi exhibits popular pieces of artwork from renowned artists, such as Jayasri Burman, Jamini Roy, M F Husain, Jogen Chowdhury, K S Radhakrishnan, Manu Parekh, Sakti Burman, Anjolie Ela Menon, to name a few.",
-      "buttonText": "Learn More",
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/mobile-slide-NEW2-1024x1003.jpg"
+    {
+      "id": 2,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Jayasri-Burman-Prakriti-72-x-60-inches-Acrylic-on-canvas-2023-720x940.png",
+      "artist": "Jayasri Burman",
+      "title": "Prakriti 101",
+      "medium": "Acrylic on canvas",
+      "dimensions": "72\" x 60\"",
+      "style": "Realism",
+      "size": "Medium",
+      "layout": "Portrait"
     },
-    "artworkCategories": [
-      {
-        "title": "View all",
-        "count": 518
-      },
-      {
-        "title": "Paintings",
-        "count": 357
-      },
-      {
-        "title": "Drawings",
-        "count": 49
-      },
-      {
-        "title": "Sculptures",
-        "count": 58
-      },
-      {
-        "title": "Photography/Videography",
-        "count": 1
-      },
-      {
-        "title": "Prints / Serigraphs / Etching / Oleographs",
-        "count": 61
-      },
-      {
-        "title": "Ceramics",
-        "count": 3
-      },
-      {
-        "title": "Bookshop",
-        "count": 7
-      }
-    ]
+    {
+      "id": 3,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Manu-Parekh-MP-0025-Evening-light-60-x-60-inches-Oil-on-canvas-2012-r-720x940.png",
+      "artist": "Manu Parekh",
+      "title": "Sun between two temples",
+      "medium": "Acrylic on canvas",
+      "dimensions": "48\" x 60\"",
+      "style": "Expressionism",
+      "size": "Medium",
+      "layout": "Square"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Akbar-Padamsee-AP-0001-Untitled-15-x-23-inches-Watercolour-on-paper-2006-720x940.png",
+      "artist": "Akbar Padamsee",
+      "title": "Untitled",
+      "medium": "Watercolour on paper",
+      "dimensions": "15\" x 23\"",
+      "style": "Abstract",
+      "size": "Small",
+      "layout": "Landscape"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2021/07/ap0003-akbar-720x940.png",
+      "artist": "Jayasri Burman",
+      "title": "Prakriti",
+      "medium": "Acrylic on canvas",
+      "dimensions": "72\" x 60\"",
+      "style": "Realism",
+      "size": "Medium",
+      "layout": "Portrait"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2023/02/Manu-Parekh-MP-0044-Evening-Prayer-40-x-80-inches-Acrylic-on-canvas-2022-720x940.png",
+      "artist": "Manu Parekh",
+      "title": "Evening Prayer",
+      "medium": "Acrylic on canvas",
+      "dimensions": "40\" x 80\"",
+      "style": "Expressionism",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "artist": "Anjolie Ela Menon",
+      "title": "Mystic Woman",
+      "medium": "Oil on canvas",
+      "dimensions": "40\" x 60\"",
+      "style": "Abstract",
+      "size": "Large",
+      "layout": "Portrait"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Jayasri-Burman-Prakriti-72-x-60-inches-Acrylic-on-canvas-2023-720x940.png",
+      "artist": "Jamini Roy",
+      "title": "Village Scene",
+      "medium": "Acrylic on board",
+      "dimensions": "30\" x 40\"",
+      "style": "Realism",
+      "size": "Medium",
+      "layout": "Square"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Manu-Parekh-MP-0025-Evening-light-60-x-60-inches-Oil-on-canvas-2012-r-720x940.png",
+      "artist": "M F Husain",
+      "title": "Horse Dance",
+      "medium": "Acrylic on canvas",
+      "dimensions": "50\" x 70\"",
+      "style": "Expressionism",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Akbar-Padamsee-AP-0001-Untitled-15-x-23-inches-Watercolour-on-paper-2006-720x940.png",
+      "artist": "Sakti Burman",
+      "title": "Dreamer",
+      "medium": "Watercolour on paper",
+      "dimensions": "20\" x 30\"",
+      "style": "Surrealism",
+      "size": "Small",
+      "layout": "Portrait"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2021/07/ap0003-akbar-720x940.png",
+      "artist": "F N Souza",
+      "title": "Self Portrait",
+      "medium": "Oil on canvas",
+      "dimensions": "60\" x 80\"",
+      "style": "Expressionism",
+      "size": "Large",
+      "layout": "Square"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2023/02/Manu-Parekh-MP-0044-Evening-Prayer-40-x-80-inches-Acrylic-on-canvas-2022-720x940.png",
+      "artist": "S H Raza",
+      "title": "Circle of Life",
+      "medium": "Acrylic on canvas",
+      "dimensions": "40\" x 50\"",
+      "style": "Abstract",
+      "size": "Medium",
+      "layout": "Landscape"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "artist": "Krishna Reddy",
+      "title": "Structure",
+      "medium": "Mixed media on paper",
+      "dimensions": "25\" x 35\"",
+      "style": "Abstract",
+      "size": "Small",
+      "layout": "Square"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Jayasri-Burman-Prakriti-72-x-60-inches-Acrylic-on-canvas-2023-720x940.png",
+      "artist": "Laxma Goud",
+      "title": "Village Life",
+      "medium": "Charcoal on paper",
+      "dimensions": "30\" x 45\"",
+      "style": "Realism",
+      "size": "Medium",
+      "layout": "Landscape"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Manu-Parekh-MP-0025-Evening-light-60-x-60-inches-Oil-on-canvas-2012-r-720x940.png",
+      "artist": "K S Radhakrishnan",
+      "title": "Rhythm",
+      "medium": "Bronze sculpture",
+      "dimensions": "50\" x 50\"",
+      "style": "Sculpture",
+      "size": "Large",
+      "layout": "Square"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Akbar-Padamsee-AP-0001-Untitled-15-x-23-inches-Watercolour-on-paper-2006-720x940.png",
+      "artist": "Arpita Singh",
+      "title": "Fantasy Land",
+      "medium": "Ink and acrylic on canvas",
+      "dimensions": "35\" x 55\"",
+      "style": "Surrealism",
+      "size": "Medium",
+      "layout": "Portrait"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2021/07/ap0003-akbar-720x940.png",
+      "artist": "Subodh Gupta",
+      "title": "Home Coming",
+      "medium": "Metal on canvas",
+      "dimensions": "48\" x 72\"",
+      "style": "Contemporary",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2023/02/Manu-Parekh-MP-0044-Evening-Prayer-40-x-80-inches-Acrylic-on-canvas-2022-720x940.png",
+      "artist": "Bharti Kher",
+      "title": "New Horizon",
+      "medium": "Mixed media on canvas",
+      "dimensions": "36\" x 60\"",
+      "style": "Abstract",
+      "size": "Medium",
+      "layout": "Landscape"
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "artist": "Nandalal Bose",
+      "title": "Mother Nature",
+      "medium": "Ink on paper",
+      "dimensions": "28\" x 36\"",
+      "style": "Nature",
+      "size": "Small",
+      "layout": "Portrait"
+    }
+  ],
+  "galleryInfo": {
+    "title": "GALLERIE NVYA",
+    "subtitle": "Most Dynamic Art Gallery in India",
+    "description": "Gallerie Nvya is among the finest art galleries in India. Art has no boundaries and there is no limit to artistic caliber in India. Therefore, we make sure to manage the best art gallery in India that brings the veterans and descendants of the league on one platform. The variety of artwork at our gallery is vast, which takes us to the best art galleries in India. Our art gallery in Delhi exhibits popular pieces of artwork from renowned artists, such as Jayasri Burman, Jamini Roy, M F Husain, Jogen Chowdhury, K S Radhakrishnan, Manu Parekh, Sakti Burman, Anjolie Ela Menon, to name a few.",
+    "buttonText": "Learn More",
+    "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/mobile-slide-NEW2-1024x1003.jpg"
+  },
+  "artworkCategories": [
+    { "title": "View all", "count": 518 },
+    { "title": "Paintings", "count": 357 },
+    { "title": "Drawings", "count": 49 },
+    { "title": "Sculptures", "count": 58 },
+    { "title": "Photography/Videography", "count": 1 },
+    { "title": "Prints / Serigraphs / Etching / Oleographs", "count": 61 },
+    { "title": "Ceramics", "count": 3 },
+    { "title": "Bookshop", "count": 7 }
+  ],
+  "filters": {
+    "styles": ["Abstract", "Realism", "Expressionism", "Surrealism", "Contemporary", "Nature", "Sculpture"],
+    "mediums": ["Oil", "Acrylic", "Watercolour", "Ink", "Charcoal", "Metal", "Mixed media", "Bronze"],
+    "sizes": ["Small", "Medium", "Large"],
+    "layouts": ["Landscape", "Portrait", "Square"]
   }
-  
+}

@@ -7,12 +7,15 @@
   import Artworks from './routes/Artworks.svelte';
   import Contact from './components/Contact.svelte';
   import ScrollToTop from './components/ScrollToTop.svelte';
-
+  import Artists from './components/Artists.svelte';
+  import Detail from './components/Detail.svelte';
   // Define routes
   const routes = {
     '/': Home,
     '/artworks': Artworks,
     '/contact': Contact,
+    '/artists' : Artists,
+    '/artists/details/:id': Detail 
   };
 
   onMount(() => {
