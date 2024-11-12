@@ -6,6 +6,7 @@
   import Footer from './components/Footer.svelte';
   import Artworks from './routes/Artworks.svelte';
   import Contact from './components/Contact.svelte';
+  import ScrollToTop from './components/ScrollToTop.svelte';
 
   // Define routes
   const routes = {
@@ -38,6 +39,9 @@
     <Router {routes} />
   </main>
 
+  <!-- ScrollToTop button with adjusted position -->
+  <ScrollToTop />
+
   <!-- Footer remains at the bottom -->
   <Footer />
 </div>
@@ -60,5 +64,28 @@
   /* Footer styling to keep it at the bottom */
   footer {
     width: 100%;
+  }
+
+  /* ScrollToTop Button Styling */
+  .scroll-to-top {
+    position: fixed;
+    bottom: 80px; /* Extra space for the Tawk.to icon */
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #333;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: opacity 0.3s ease;
+    z-index: 999; /* Ensure it's above other content */
+  }
+
+  .scroll-to-top:hover {
+    background-color: #555;
   }
 </style>
