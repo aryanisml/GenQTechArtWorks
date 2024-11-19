@@ -4,6 +4,7 @@
   let artwork;
   let artworkId;
   let currentUrl = '';
+  let mobileNumber = '';
 
   onMount(async () => {
     // Scroll to the top of the page when the component mounts
@@ -16,6 +17,7 @@
     artworkId = currentRoute.split('/').pop(); // Get the last part of the URL
     const response = await fetch('/data.json');
     const data = await response.json();
+    mobileNumber= data?.whatsappMobileNumber;
     artwork = data.artworks.find((a) => a.id.toString() === artworkId);
   });
 
@@ -56,7 +58,7 @@
         
         <!-- WhatsApp button with dynamic message -->
         <a
-          href={`https://wa.me/7021148278?text=${encodeURIComponent(`Hello, I'm interested in this artwork. Here is the link: ${currentUrl}`)}`}
+          href={`https://wa.me/${mobileNumber}?text=${encodeURIComponent(`Hello, I'm interested in this artwork. Here is the link: ${currentUrl}`)}`}
           target="_blank"
           class="whatsapp-button"
           aria-label="Contact via WhatsApp"

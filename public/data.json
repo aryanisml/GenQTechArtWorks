@@ -8,7 +8,7 @@
   "artworks": [
     {
       "id": 1,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty.jpeg",
       "artist": "Paresh Maity",
       "title": "SIENA",
       "medium": "Oil and acrylic on canvas",
@@ -19,7 +19,7 @@
     },
     {
       "id": 2,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Jayasri-Burman-Prakriti-72-x-60-inches-Acrylic-on-canvas-2023-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty2.jpeg",
       "artist": "Jayasri Burman",
       "title": "Prakriti 101",
       "medium": "Acrylic on canvas",
@@ -30,7 +30,7 @@
     },
     {
       "id": 3,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Manu-Parekh-MP-0025-Evening-light-60-x-60-inches-Oil-on-canvas-2012-r-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty3.jpeg",
       "artist": "Manu Parekh",
       "title": "Sun between two temples",
       "medium": "Acrylic on canvas",
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Akbar-Padamsee-AP-0001-Untitled-15-x-23-inches-Watercolour-on-paper-2006-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty4.jpeg",
       "artist": "Akbar Padamsee",
       "title": "Untitled",
       "medium": "Watercolour on paper",
@@ -52,7 +52,7 @@
     },
     {
       "id": 5,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2021/07/ap0003-akbar-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty5.jpeg",
       "artist": "Jayasri Burman",
       "title": "Prakriti",
       "medium": "Acrylic on canvas",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2023/02/Manu-Parekh-MP-0044-Evening-Prayer-40-x-80-inches-Acrylic-on-canvas-2022-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty.jpeg",
       "artist": "Manu Parekh",
       "title": "Evening Prayer",
       "medium": "Acrylic on canvas",
@@ -74,7 +74,7 @@
     },
     {
       "id": 7,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty2.jpeg",
       "artist": "Anjolie Ela Menon",
       "title": "Mystic Woman",
       "medium": "Oil on canvas",
@@ -85,7 +85,7 @@
     },
     {
       "id": 8,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Jayasri-Burman-Prakriti-72-x-60-inches-Acrylic-on-canvas-2023-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty3.jpeg",
       "artist": "Jamini Roy",
       "title": "Village Scene",
       "medium": "Acrylic on board",
@@ -96,7 +96,7 @@
     },
     {
       "id": 9,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Manu-Parekh-MP-0025-Evening-light-60-x-60-inches-Oil-on-canvas-2012-r-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty4.jpeg",
       "artist": "M F Husain",
       "title": "Horse Dance",
       "medium": "Acrylic on canvas",
@@ -107,7 +107,7 @@
     },
     {
       "id": 10,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Akbar-Padamsee-AP-0001-Untitled-15-x-23-inches-Watercolour-on-paper-2006-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty5.jpeg",
       "artist": "Sakti Burman",
       "title": "Dreamer",
       "medium": "Watercolour on paper",
@@ -118,7 +118,7 @@
     },
     {
       "id": 11,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2021/07/ap0003-akbar-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty.jpeg",
       "artist": "F N Souza",
       "title": "Self Portrait",
       "medium": "Oil on canvas",
@@ -129,7 +129,7 @@
     },
     {
       "id": 12,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2023/02/Manu-Parekh-MP-0044-Evening-Prayer-40-x-80-inches-Acrylic-on-canvas-2022-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty2.jpeg",
       "artist": "S H Raza",
       "title": "Circle of Life",
       "medium": "Acrylic on canvas",
@@ -140,7 +140,7 @@
     },
     {
       "id": 13,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty2.jpeg",
       "artist": "Krishna Reddy",
       "title": "Structure",
       "medium": "Mixed media on paper",
@@ -151,7 +151,7 @@
     },
     {
       "id": 14,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Jayasri-Burman-Prakriti-72-x-60-inches-Acrylic-on-canvas-2023-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty3.jpeg",
       "artist": "Laxma Goud",
       "title": "Village Life",
       "medium": "Charcoal on paper",
@@ -162,7 +162,7 @@
     },
     {
       "id": 15,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Manu-Parekh-MP-0025-Evening-light-60-x-60-inches-Oil-on-canvas-2012-r-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty4.jpeg",
       "artist": "K S Radhakrishnan",
       "title": "Rhythm",
       "medium": "Bronze sculpture",
@@ -173,7 +173,7 @@
     },
     {
       "id": 16,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2019/05/Akbar-Padamsee-AP-0001-Untitled-15-x-23-inches-Watercolour-on-paper-2006-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty5.jpeg",
       "artist": "Arpita Singh",
       "title": "Fantasy Land",
       "medium": "Ink and acrylic on canvas",
@@ -184,7 +184,7 @@
     },
     {
       "id": 17,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2021/07/ap0003-akbar-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty.jpeg",
       "artist": "Subodh Gupta",
       "title": "Home Coming",
       "medium": "Metal on canvas",
@@ -195,7 +195,7 @@
     },
     {
       "id": 18,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2023/02/Manu-Parekh-MP-0044-Evening-Prayer-40-x-80-inches-Acrylic-on-canvas-2022-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty2.jpeg",
       "artist": "Bharti Kher",
       "title": "New Horizon",
       "medium": "Mixed media on canvas",
@@ -206,7 +206,7 @@
     },
     {
       "id": 19,
-      "imageUrl": "https://www.gallerienvya.com/wp-content/uploads/2024/02/Paresh-Maity-PM-0176-SIENA-84-x-120-inches-Oil-acrylic-on-canvas-2023-720x940.png",
+      "imageUrl": "/asset/HiddenBeauty4.jpeg",
       "artist": "Nandalal Bose",
       "title": "Mother Nature",
       "medium": "Ink on paper",
@@ -238,5 +238,7 @@
     "mediums": ["Oil", "Acrylic", "Watercolour", "Ink", "Charcoal", "Metal", "Mixed media", "Bronze"],
     "sizes": ["Small", "Medium", "Large"],
     "layouts": ["Landscape", "Portrait", "Square"]
-  }
+  },
+  "whatsappMobileNumber" : "7021148278",
+  "contact":"410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063"
 }
