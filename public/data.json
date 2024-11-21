@@ -224,21 +224,70 @@
     "imageUrl": "/asset/HiddenBeauty2.jpeg"
   },
   "artworkCategories": [
-    { "title": "View all", "count": 518 },
-    { "title": "Paintings", "count": 357 },
-    { "title": "Drawings", "count": 49 },
-    { "title": "Sculptures", "count": 58 },
-    { "title": "Photography/Videography", "count": 1 },
-    { "title": "Prints / Serigraphs / Etching / Oleographs", "count": 61 },
-    { "title": "Ceramics", "count": 3 },
-    { "title": "Bookshop", "count": 7 }
+    {
+      "title": "View all",
+      "count": 518
+    },
+    {
+      "title": "Paintings",
+      "count": 357
+    },
+    {
+      "title": "Drawings",
+      "count": 49
+    },
+    {
+      "title": "Sculptures",
+      "count": 58
+    },
+    {
+      "title": "Photography/Videography",
+      "count": 1
+    },
+    {
+      "title": "Prints / Serigraphs / Etching / Oleographs",
+      "count": 61
+    },
+    {
+      "title": "Ceramics",
+      "count": 3
+    },
+    {
+      "title": "Bookshop",
+      "count": 7
+    }
   ],
   "filters": {
-    "styles": ["Abstract", "Realism", "Expressionism", "Surrealism", "Contemporary", "Nature", "Sculpture"],
-    "mediums": ["Oil", "Acrylic", "Watercolour", "Ink", "Charcoal", "Metal", "Mixed media", "Bronze"],
-    "sizes": ["Small", "Medium", "Large"],
-    "layouts": ["Landscape", "Portrait", "Square"]
+    "styles": [
+      "Abstract",
+      "Realism",
+      "Expressionism",
+      "Surrealism",
+      "Contemporary",
+      "Nature",
+      "Sculpture"
+    ],
+    "mediums": [
+      "Oil",
+      "Acrylic",
+      "Watercolour",
+      "Ink",
+      "Charcoal",
+      "Metal",
+      "Mixed media",
+      "Bronze"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "layouts": [
+      "Landscape",
+      "Portrait",
+      "Square"
+    ]
   },
-  "whatsappMobileNumber" : "7021148278",
-  "contact":"410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063"
+  "whatsappMobileNumber": "7021148278",
+  "contact": "410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063"
 }
