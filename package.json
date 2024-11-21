@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "convert-data": "ts-node --esm scripts/convert.ts",
-    "build": "npm run convert-data && vite build",
+    "compile-scripts": "tsc",                               
+    "convert-data": "node dist/scripts/convert.js",        
+    "build": "npm run compile-scripts && npm run convert-data && vite build",
     "preview": "vite preview",
-    "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json",
-    "prebuild": "npm run convert-data"
+    "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^4.0.0",
@@ -28,6 +28,6 @@
     "csvtojson": "^2.0.10",
     "svelte-spa-router": "^4.0.1",
     "swiper": "^11.1.14",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.1"
   }
 }
