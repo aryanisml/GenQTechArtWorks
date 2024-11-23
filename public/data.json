@@ -2,292 +2,243 @@
   "heroSection": {
     "imageUrl": "/asset/HiddenBeauty2.jpeg",
     "mobileImageUrl": "/asset/HiddenBeauty.jpeg",
-    "title": "Modern & Contemporary Art",
-    "description": "Delhi-based art gallery presents a platform for renowned and emerging artists to display their works. Gallerie Nvya nurtures art lovers and artists and exhibits captivating Modern and Contemporary works of art. Nvya is fascinating both for art enthusiasts and for connoisseurs."
+    "title": "Hidden Beauty (Exhibition of Paintings by Sampa Paul",
+    "description": "Humans have evolved from the latent memories ancestral past which explains similar modes of functioning patterns of behaviour that occurs across the globe. This understanding of human personality always fascinates me. As a student of Art College I was drawn into painting masks, Fathoming various complexities of human mind in diverse and challenging situations. My drawings were a narrative of innumerable shades of personality, from dark, mysterious, sensuous, scary to happy, joyful, compassionate, serene to a diverse spectrum. <br/> A midst of all the events, becoming a mother was a very special life event. I was reborn with the birth of my children. I experienced the power of creating that mother nature has bestowed. Flowers did the magic  Flowers did the magic of bridging the gap between the feelings of power and un-masked emotions – strength and vulnerability. They helped me cover and uncover the emotions and speak my heart bigger."
   },
   "artworks": [
     {
       "id": 1,
       "imageUrl": "/asset/HiddenBeauty.jpeg",
-      "artist": "Paresh Maity",
-      "title": "SIENA",
-      "medium": "Oil and acrylic on canvas",
-      "dimensions": "84\" x 120\"",
-      "style": "Abstract",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 1",
+      "medium": "Mixed media on canvas",
+      "dimensions": "48\" x 60\"",
+      "style": "Realism",
       "size": "Large",
-      "layout": "Landscape"
+      "layout": "Portrait"
     },
     {
       "id": 2,
       "imageUrl": "/asset/HiddenBeauty2.jpeg",
-      "artist": "Jayasri Burman",
-      "title": "Prakriti 101",
-      "medium": "Acrylic on canvas",
-      "dimensions": "72\" x 60\"",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 2",
+      "medium": "Mixed media on canvas",
+      "dimensions": "42\" x 72\"",
       "style": "Realism",
-      "size": "Medium",
-      "layout": "Portrait"
+      "size": "Large",
+      "layout": "Landscape"
     },
     {
       "id": 3,
-      "imageUrl": "/asset/HiddenBeauty3.jpeg",
-      "artist": "Manu Parekh",
-      "title": "Sun between two temples",
-      "medium": "Acrylic on canvas",
-      "dimensions": "48\" x 60\"",
-      "style": "Expressionism",
+      "imageUrl": "/asset/HiddenBeauty3.jpeg",      
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 3",
+      "medium": "Mixed media on canvas",
+      "dimensions": "36\" x 48\"",
+      "style": "Realism",
       "size": "Medium",
-      "layout": "Square"
+      "layout": "Landscape"
     },
     {
       "id": 4,
       "imageUrl": "/asset/HiddenBeauty4.jpeg",
-      "artist": "Akbar Padamsee",
-      "title": "Untitled",
-      "medium": "Watercolour on paper",
-      "dimensions": "15\" x 23\"",
-      "style": "Abstract",
-      "size": "Small",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 4",
+      "medium": "Mixed media on canvas",
+      "dimensions": "48\" x 60\"",
+      "style": "Realism",
+      "size": "Large",
       "layout": "Landscape"
     },
     {
       "id": 5,
       "imageUrl": "/asset/HiddenBeauty5.jpeg",
-      "artist": "Jayasri Burman",
-      "title": "Prakriti",
-      "medium": "Acrylic on canvas",
-      "dimensions": "72\" x 60\"",
-      "style": "Realism",
-      "size": "Medium",
-      "layout": "Portrait"
-    },
-    {
-      "id": 6,
-      "imageUrl": "/asset/HiddenBeauty.jpeg",
-      "artist": "Manu Parekh",
-      "title": "Evening Prayer",
-      "medium": "Acrylic on canvas",
-      "dimensions": "40\" x 80\"",
-      "style": "Expressionism",
-      "size": "Large",
-      "layout": "Landscape"
-    },
-    {
-      "id": 7,
-      "imageUrl": "/asset/HiddenBeauty2.jpeg",
-      "artist": "Anjolie Ela Menon",
-      "title": "Mystic Woman",
-      "medium": "Oil on canvas",
-      "dimensions": "40\" x 60\"",
-      "style": "Abstract",
-      "size": "Large",
-      "layout": "Portrait"
-    },
-    {
-      "id": 8,
-      "imageUrl": "/asset/HiddenBeauty3.jpeg",
-      "artist": "Jamini Roy",
-      "title": "Village Scene",
-      "medium": "Acrylic on board",
-      "dimensions": "30\" x 40\"",
-      "style": "Realism",
-      "size": "Medium",
-      "layout": "Square"
-    },
-    {
-      "id": 9,
-      "imageUrl": "/asset/HiddenBeauty4.jpeg",
-      "artist": "M F Husain",
-      "title": "Horse Dance",
-      "medium": "Acrylic on canvas",
-      "dimensions": "50\" x 70\"",
-      "style": "Expressionism",
-      "size": "Large",
-      "layout": "Landscape"
-    },
-    {
-      "id": 10,
-      "imageUrl": "/asset/HiddenBeauty5.jpeg",
-      "artist": "Sakti Burman",
-      "title": "Dreamer",
-      "medium": "Watercolour on paper",
-      "dimensions": "20\" x 30\"",
-      "style": "Surrealism",
-      "size": "Small",
-      "layout": "Portrait"
-    },
-    {
-      "id": 11,
-      "imageUrl": "/asset/HiddenBeauty.jpeg",
-      "artist": "F N Souza",
-      "title": "Self Portrait",
-      "medium": "Oil on canvas",
-      "dimensions": "60\" x 80\"",
-      "style": "Expressionism",
-      "size": "Large",
-      "layout": "Square"
-    },
-    {
-      "id": 12,
-      "imageUrl": "/asset/HiddenBeauty2.jpeg",
-      "artist": "S H Raza",
-      "title": "Circle of Life",
-      "medium": "Acrylic on canvas",
-      "dimensions": "40\" x 50\"",
-      "style": "Abstract",
-      "size": "Medium",
-      "layout": "Landscape"
-    },
-    {
-      "id": 13,
-      "imageUrl": "/asset/HiddenBeauty2.jpeg",
-      "artist": "Krishna Reddy",
-      "title": "Structure",
-      "medium": "Mixed media on paper",
-      "dimensions": "25\" x 35\"",
-      "style": "Abstract",
-      "size": "Small",
-      "layout": "Square"
-    },
-    {
-      "id": 14,
-      "imageUrl": "/asset/HiddenBeauty3.jpeg",
-      "artist": "Laxma Goud",
-      "title": "Village Life",
-      "medium": "Charcoal on paper",
-      "dimensions": "30\" x 45\"",
-      "style": "Realism",
-      "size": "Medium",
-      "layout": "Landscape"
-    },
-    {
-      "id": 15,
-      "imageUrl": "/asset/HiddenBeauty4.jpeg",
-      "artist": "K S Radhakrishnan",
-      "title": "Rhythm",
-      "medium": "Bronze sculpture",
-      "dimensions": "50\" x 50\"",
-      "style": "Sculpture",
-      "size": "Large",
-      "layout": "Square"
-    },
-    {
-      "id": 16,
-      "imageUrl": "/asset/HiddenBeauty5.jpeg",
-      "artist": "Arpita Singh",
-      "title": "Fantasy Land",
-      "medium": "Ink and acrylic on canvas",
-      "dimensions": "35\" x 55\"",
-      "style": "Surrealism",
-      "size": "Medium",
-      "layout": "Portrait"
-    },
-    {
-      "id": 17,
-      "imageUrl": "/asset/HiddenBeauty.jpeg",
-      "artist": "Subodh Gupta",
-      "title": "Home Coming",
-      "medium": "Metal on canvas",
-      "dimensions": "48\" x 72\"",
-      "style": "Contemporary",
-      "size": "Large",
-      "layout": "Landscape"
-    },
-    {
-      "id": 18,
-      "imageUrl": "/asset/HiddenBeauty2.jpeg",
-      "artist": "Bharti Kher",
-      "title": "New Horizon",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 5",
       "medium": "Mixed media on canvas",
-      "dimensions": "36\" x 60\"",
-      "style": "Abstract",
-      "size": "Medium",
+      "dimensions": "48\" x 72\"",
+      "style": "Realism",
+      "size": "Large",
       "layout": "Landscape"
-    },
-    {
-      "id": 19,
-      "imageUrl": "/asset/HiddenBeauty4.jpeg",
-      "artist": "Nandalal Bose",
-      "title": "Mother Nature",
-      "medium": "Ink on paper",
-      "dimensions": "28\" x 36\"",
-      "style": "Nature",
-      "size": "Small",
-      "layout": "Portrait"
     }
+    // {
+    //   "id": 6,
+    //   "imageUrl": "/asset/HiddenBeauty.jpeg",
+    //   "artist": "Manu Parekh",
+    //   "title": "Evening Prayer",
+    //   "medium": "Acrylic on canvas",
+    //   "dimensions": "40\" x 80\"",
+    //   "style": "Expressionism",
+    //   "size": "Large",
+    //   "layout": "Landscape"
+    // },
+    // {
+    //   "id": 7,
+    //   "imageUrl": "/asset/HiddenBeauty2.jpeg",
+    //   "artist": "Anjolie Ela Menon",
+    //   "title": "Mystic Woman",
+    //   "medium": "Oil on canvas",
+    //   "dimensions": "40\" x 60\"",
+    //   "style": "Abstract",
+    //   "size": "Large",
+    //   "layout": "Portrait"
+    // },
+    // {
+    //   "id": 8,
+    //   "imageUrl": "/asset/HiddenBeauty3.jpeg",
+    //   "artist": "Jamini Roy",
+    //   "title": "Village Scene",
+    //   "medium": "Acrylic on board",
+    //   "dimensions": "30\" x 40\"",
+    //   "style": "Realism",
+    //   "size": "Medium",
+    //   "layout": "Square"
+    // },
+    // {
+    //   "id": 9,
+    //   "imageUrl": "/asset/HiddenBeauty4.jpeg",
+    //   "artist": "M F Husain",
+    //   "title": "Horse Dance",
+    //   "medium": "Acrylic on canvas",
+    //   "dimensions": "50\" x 70\"",
+    //   "style": "Expressionism",
+    //   "size": "Large",
+    //   "layout": "Landscape"
+    // },
+    // {
+    //   "id": 10,
+    //   "imageUrl": "/asset/HiddenBeauty5.jpeg",
+    //   "artist": "Sakti Burman",
+    //   "title": "Dreamer",
+    //   "medium": "Watercolour on paper",
+    //   "dimensions": "20\" x 30\"",
+    //   "style": "Surrealism",
+    //   "size": "Small",
+    //   "layout": "Portrait"
+    // },
+    // {
+    //   "id": 11,
+    //   "imageUrl": "/asset/HiddenBeauty.jpeg",
+    //   "artist": "F N Souza",
+    //   "title": "Self Portrait",
+    //   "medium": "Oil on canvas",
+    //   "dimensions": "60\" x 80\"",
+    //   "style": "Expressionism",
+    //   "size": "Large",
+    //   "layout": "Square"
+    // },
+    // {
+    //   "id": 12,
+    //   "imageUrl": "/asset/HiddenBeauty2.jpeg",
+    //   "artist": "S H Raza",
+    //   "title": "Circle of Life",
+    //   "medium": "Acrylic on canvas",
+    //   "dimensions": "40\" x 50\"",
+    //   "style": "Abstract",
+    //   "size": "Medium",
+    //   "layout": "Landscape"
+    // },
+    // {
+    //   "id": 13,
+    //   "imageUrl": "/asset/HiddenBeauty2.jpeg",
+    //   "artist": "Krishna Reddy",
+    //   "title": "Structure",
+    //   "medium": "Mixed media on paper",
+    //   "dimensions": "25\" x 35\"",
+    //   "style": "Abstract",
+    //   "size": "Small",
+    //   "layout": "Square"
+    // },
+    // {
+    //   "id": 14,
+    //   "imageUrl": "/asset/HiddenBeauty3.jpeg",
+    //   "artist": "Laxma Goud",
+    //   "title": "Village Life",
+    //   "medium": "Charcoal on paper",
+    //   "dimensions": "30\" x 45\"",
+    //   "style": "Realism",
+    //   "size": "Medium",
+    //   "layout": "Landscape"
+    // },
+    // {
+    //   "id": 15,
+    //   "imageUrl": "/asset/HiddenBeauty4.jpeg",
+    //   "artist": "K S Radhakrishnan",
+    //   "title": "Rhythm",
+    //   "medium": "Bronze sculpture",
+    //   "dimensions": "50\" x 50\"",
+    //   "style": "Sculpture",
+    //   "size": "Large",
+    //   "layout": "Square"
+    // },
+    // {
+    //   "id": 16,
+    //   "imageUrl": "/asset/HiddenBeauty5.jpeg",
+    //   "artist": "Arpita Singh",
+    //   "title": "Fantasy Land",
+    //   "medium": "Ink and acrylic on canvas",
+    //   "dimensions": "35\" x 55\"",
+    //   "style": "Surrealism",
+    //   "size": "Medium",
+    //   "layout": "Portrait"
+    // },
+    // {
+    //   "id": 17,
+    //   "imageUrl": "/asset/HiddenBeauty.jpeg",
+    //   "artist": "Subodh Gupta",
+    //   "title": "Home Coming",
+    //   "medium": "Metal on canvas",
+    //   "dimensions": "48\" x 72\"",
+    //   "style": "Contemporary",
+    //   "size": "Large",
+    //   "layout": "Landscape"
+    // },
+    // {
+    //   "id": 18,
+    //   "imageUrl": "/asset/HiddenBeauty2.jpeg",
+    //   "artist": "Bharti Kher",
+    //   "title": "New Horizon",
+    //   "medium": "Mixed media on canvas",
+    //   "dimensions": "36\" x 60\"",
+    //   "style": "Abstract",
+    //   "size": "Medium",
+    //   "layout": "Landscape"
+    // },
+    // {
+    //   "id": 19,
+    //   "imageUrl": "/asset/HiddenBeauty4.jpeg",
+    //   "artist": "Nandalal Bose",
+    //   "title": "Mother Nature",
+    //   "medium": "Ink on paper",
+    //   "dimensions": "28\" x 36\"",
+    //   "style": "Nature",
+    //   "size": "Small",
+    //   "layout": "Portrait"
+    // }
   ],
   "galleryInfo": {
-    "title": "GALLERIE NVYA",
-    "subtitle": "Most Dynamic Art Gallery in India",
-    "description": "Gallerie Nvya is among the finest art galleries in India. Art has no boundaries and there is no limit to artistic caliber in India. Therefore, we make sure to manage the best art gallery in India that brings the veterans and descendants of the league on one platform. The variety of artwork at our gallery is vast, which takes us to the best art galleries in India. Our art gallery in Delhi exhibits popular pieces of artwork from renowned artists, such as Jayasri Burman, Jamini Roy, M F Husain, Jogen Chowdhury, K S Radhakrishnan, Manu Parekh, Sakti Burman, Anjolie Ela Menon, to name a few.",
+    "title": "About the Artist",
+    "subtitle": "SAMPA PAUL Born in 1980",
+    "description": "Sampa is an Indian Painter from government college of art and crafts. She started her career from 2004 in Mumbai. Sampa participated at Bombay art Society year of 2004 and 2005 and nominated for award. When she was in college participated in lot of exhibitions like academy of fine Arts, Birla academy. Lalitkala academy, Nehru Centre and college annual shows etc. Sampa Paul done many group shows in India and Abroad from 2004 till date. Her mask series was very popular. Recently has come up with a new collection “Hidden Beauty”",
     "buttonText": "Learn More",
-    "imageUrl": "/asset/HiddenBeauty2.jpeg"
+    "imageUrl": "/asset/Sampa.jpeg"
   },
   "artworkCategories": [
-    {
-      "title": "View all",
-      "count": 518
-    },
-    {
-      "title": "Paintings",
-      "count": 357
-    },
-    {
-      "title": "Drawings",
-      "count": 49
-    },
-    {
-      "title": "Sculptures",
-      "count": 58
-    },
-    {
-      "title": "Photography/Videography",
-      "count": 1
-    },
-    {
-      "title": "Prints / Serigraphs / Etching / Oleographs",
-      "count": 61
-    },
-    {
-      "title": "Ceramics",
-      "count": 3
-    },
-    {
-      "title": "Bookshop",
-      "count": 7
-    }
+    { "title": "View all", "count": 518 },
+    { "title": "Paintings", "count": 357 },
+    { "title": "Drawings", "count": 49 },
+    { "title": "Sculptures", "count": 58 },
+    { "title": "Photography/Videography", "count": 1 },
+    { "title": "Prints / Serigraphs / Etching / Oleographs", "count": 61 },
+    { "title": "Ceramics", "count": 3 },
+    { "title": "Bookshop", "count": 7 }
   ],
   "filters": {
-    "styles": [
-      "Abstract",
-      "Realism",
-      "Expressionism",
-      "Surrealism",
-      "Contemporary",
-      "Nature",
-      "Sculpture"
-    ],
-    "mediums": [
-      "Oil",
-      "Acrylic",
-      "Watercolour",
-      "Ink",
-      "Charcoal",
-      "Metal",
-      "Mixed media",
-      "Bronze"
-    ],
-    "sizes": [
-      "Small",
-      "Medium",
-      "Large"
-    ],
-    "layouts": [
-      "Landscape",
-      "Portrait",
-      "Square"
-    ]
+    "styles": ["Abstract", "Realism", "Expressionism", "Surrealism", "Contemporary", "Nature"],
+    "mediums": ["Oil", "Acrylic", "Mixed media"],
+    "sizes": ["Small", "Medium", "Large"],
+    "layouts": ["Landscape", "Portrait", "Square"]
   },
-  "whatsappMobileNumber": "7021148278",
-  "contact": "410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063"
+  "whatsappMobileNumber" : "98XXXXXXXXX",
+  "contact":"Borivali East, Mumbai 400063"
 }
