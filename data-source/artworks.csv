@@ -1,20 +1,7 @@
 id,imageUrl,artist,title,medium,dimensions,style,size,layout
 1,/asset/HiddenBeauty2.jpeg,Sampa Paul,Hidden Beauty - 1,"Mixed media on canvas","42"" x 72""",Realism,Large,Portrait
-2,/asset/HiddenBeauty2.jpeg,Jayasri Burman,Prakriti 101,"Acrylic on canvas","72"" x 60""",Realism,Medium,Portrait
-3,/asset/HiddenBeauty3.jpeg,Manu Parekh,Sun between two temples,"Acrylic on canvas","48"" x 60""",Expressionism,Medium,Square
-4,/asset/HiddenBeauty4.jpeg,Akbar Padamsee,Untitled,"Watercolour on paper","15"" x 23""",Abstract,Small,Landscape
-5,/asset/HiddenBeauty5.jpeg,Jayasri Burman,Prakriti,"Acrylic on canvas","72"" x 60""",Realism,Medium,Portrait
-6,/asset/HiddenBeauty.jpeg,Manu Parekh,Evening Prayer,"Acrylic on canvas","40"" x 80""",Expressionism,Large,Landscape
-7,/asset/HiddenBeauty2.jpeg,Anjolie Ela Menon,Mystic Woman,"Oil on canvas","40"" x 60""",Abstract,Large,Portrait
-8,/asset/HiddenBeauty3.jpeg,Jamini Roy,Village Scene,"Acrylic on board","30"" x 40""",Realism,Medium,Square
-9,/asset/HiddenBeauty4.jpeg,M F Husain,Horse Dance,"Acrylic on canvas","50"" x 70""",Expressionism,Large,Landscape
-10,/asset/HiddenBeauty5.jpeg,Sakti Burman,Dreamer,"Watercolour on paper","20"" x 30""",Surrealism,Small,Portrait
-11,/asset/HiddenBeauty.jpeg,F N Souza,Self Portrait,"Oil on canvas","60"" x 80""",Expressionism,Large,Square
-12,/asset/HiddenBeauty2.jpeg,S H Raza,Circle of Life,"Acrylic on canvas","40"" x 50""",Abstract,Medium,Landscape
-13,/asset/HiddenBeauty2.jpeg,Krishna Reddy,Structure,"Mixed media on paper","25"" x 35""",Abstract,Small,Square
-14,/asset/HiddenBeauty3.jpeg,Laxma Goud,Village Life,"Charcoal on paper","30"" x 45""",Realism,Medium,Landscape
-15,/asset/HiddenBeauty4.jpeg,K S Radhakrishnan,Rhythm,"Bronze sculpture","50"" x 50""",Sculpture,Large,Square
-16,/asset/HiddenBeauty5.jpeg,Arpita Singh,Fantasy Land,"Ink and acrylic on canvas","35"" x 55""",Surrealism,Medium,Portrait
-17,/asset/HiddenBeauty.jpeg,Subodh Gupta,Home Coming,"Metal on canvas","48"" x 72""",Contemporary,Large,Landscape
-18,/asset/HiddenBeauty2.jpeg,Bharti Kher,New Horizon,"Mixed media on canvas","36"" x 60""",Abstract,Medium,Landscape
-19,/asset/HiddenBeauty4.jpeg,Nandalal Bose,Mother Nature,"Ink on paper","28"" x 36""",Nature,Small,Portrait
+2,/asset/HiddenBeauty2.jpeg,Sampa Paul,Hidden Beauty - 2,"Mixed media on canvas","42"" x 72""",Realism,Large,Landscape
+3,/asset/HiddenBeauty3.jpeg,Sampa Paul,Hidden Beauty - 3,Mixed media on canvas,"36"" x 48""",Realism,Medium,Landscape
+4,/asset/HiddenBeauty4.jpeg,Sampa Paul,Hidden Beauty - 4,"Mixed media on canvas","48"" x 60""",Realism,Large,Landscape
+5,/asset/HiddenBeauty5.jpeg,Sampa Paul,Hidden Beauty - 5,"Mixed media on canvas","48"" x 72""",Realism,Large,Landscape
+
