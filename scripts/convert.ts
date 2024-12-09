@@ -16,6 +16,7 @@ interface DataJson {
   filters: Filters;
   whatsappMobileNumber: string;
   contact: string;
+  menu : Menu[];
 }
 
 interface Artwork {
@@ -60,6 +61,11 @@ interface GalleryInfo {
 interface ContactInfo {
   whatsappMobileNumber: string;
   contact: string;
+}
+
+interface Menu {
+  id :number,
+  name : string
 }
 
 /**
@@ -175,7 +181,8 @@ const buildDataJson = async () => {
     'filters_layouts.csv',
     'heroSection.csv',
     'galleryInfo.csv',
-    'contactInfo.csv'
+    'contactInfo.csv',
+     'menu.csv'
   ];
 
   // 3. Check if all required CSV files exist
@@ -220,6 +227,7 @@ const buildDataJson = async () => {
     },
     whatsappMobileNumber: '',
     contact: '',
+    menu : []
   };
 
   /**
@@ -305,6 +313,15 @@ const buildDataJson = async () => {
     whatsappMobileNumber: data.whatsappMobileNumber,
     contact: data.contact,
   });
+   
+    // 6.7 Convert menu.csv
+    const menuPath = path.join(dataSourceDir, 'menu.csv');
+    const menuJson = await convertCSVToJSON(menuPath);
+    data.menu = menuJson.map((item) => ({
+      id: Number(item.id),
+      name: item.name,
+    }));
+
 
   /**
    * 7. Write the data object to data.json

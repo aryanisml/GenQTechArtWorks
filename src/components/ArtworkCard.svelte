@@ -7,10 +7,10 @@
   <section class="card">
     <img loading="lazy" src={imageUrl} alt={title} class="card-image" />
     <div class="card-info">
-      <h2 class="card-title">{title}</h2>
+      <!-- <h2 class="card-title">{title}</h2>
       {#if count}
         <p class="card-count">{count}</p>
-      {/if}
+      {/if} -->
     </div>
 </section>
   

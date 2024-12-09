@@ -1,8 +1,10 @@
 <script lang="ts">
+  import { onMount } from 'svelte';
   import { theme } from './store';
   import { link } from 'svelte-spa-router';
 
   let menuOpen = false;
+  let menuList :any=[];
 
   // Toggle theme between light and dark modes
   function toggleTheme() {
@@ -17,6 +19,12 @@
   function toggleMenu() {
     menuOpen = !menuOpen;
   }
+
+  onMount(async () => {
+        const response = await fetch('/data.json');
+        const data = await response.json();
+        menuList = data.menu;
+    });
 </script>
 
 <nav class="fixed top-0 left-0 right-0 bg-light-bg dark:bg-dark-bg shadow-md z-50 font-sans" aria-label="Main Navigation">
@@ -37,12 +45,9 @@
 
     <!-- Desktop Navigation Links -->
     <div class="hidden md:flex space-x-8">
-      <a use:link href="/artworks" class="menu-item" aria-label="Artworks">ARTWORKS</a>
-      <a use:link href="/artists" class="menu-item" aria-label="Artists">ARTISTS</a>
-      <a use:link href="/exhibitions" class="menu-item" aria-label="Exhibitions">EXHIBITIONS</a>
-      <a use:link href="/advisory" class="menu-item" aria-label="Advisory">ADVISORY</a>
-      <a use:link href="/blog" class="menu-item" aria-label="Blog">BLOG</a>
-      <a use:link href="/contact" class="menu-item" aria-label="Contact">CONTACT</a>
+      {#each menuList as menu}
+      <a use:link href="/{menu.name.toLowerCase()}" class="menu-item" aria-label="Artworks">{menu.name}</a>
+      {/each}
     </div>
 
     <!-- Theme Toggle Button -->

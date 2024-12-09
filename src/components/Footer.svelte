@@ -30,7 +30,7 @@
                 <li><a href="/press" class="hover:underline focus:underline" aria-label="GenQTech Press Coverage">Press Coverage</a></li>
                 <li><a href="/testimonials" class="hover:underline focus:underline" aria-label="GenQTech Testimonials">Testimonials</a></li>
                 <li><a href="/work-with-us" class="hover:underline focus:underline" aria-label="Work With GenQTech">Work With Us</a></li>
-                <li><a href="/contact" class="hover:underline focus:underline" aria-label="Contact GenQTech">Contact Us</a></li>
+                <li><a href="#/contact" class="hover:underline focus:underline" aria-label="Contact GenQTech">Contact Us</a></li>
             </ul>
         </div>
 
@@ -58,7 +58,7 @@
 
     <!-- Footer Bottom -->
     <div class="container mx-auto mt-8 border-t border-gray-700 pt-4 text-center text-xs">
-        <p>&copy; 2020 GenQTech. Website Maintenance by GenQTech</p>
+        <p>&copy; 2024 GenQTech. Website Maintenance by GenQTech</p>
     </div>
 </footer>
 
