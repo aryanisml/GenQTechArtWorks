@@ -1,7 +1,5 @@
-<script>
-    export let title;
-    export let count;
-    export let imageUrl;
+<script lang="ts">
+  let { title, count, imageUrl } = $props();
   </script>
   
   <section class="card">

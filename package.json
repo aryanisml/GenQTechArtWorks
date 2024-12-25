@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "compile-scripts": "tsc",                               
-    "convert-data": "node dist/scripts/convert.js",        
+    "compile-scripts": "tsc",
+    "convert-data": "node dist/scripts/convert.js",
     "build": "npm run compile-scripts && npm run convert-data && vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json"

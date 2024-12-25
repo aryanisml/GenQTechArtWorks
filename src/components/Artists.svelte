@@ -10,8 +10,8 @@
         sizes: ["Small", "Medium", "Large"],
         layouts: ["Portrait", "Landscape", "Square"]
     };
-    let filteredArtworks = [];
-    let currentPage = 1;
+    let filteredArtworks = $state([]);
+    let currentPage = $state(1);
     const itemsPerPage = 12;
 
     onMount(async () => {

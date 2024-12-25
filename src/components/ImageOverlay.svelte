@@ -1,8 +1,17 @@
 <script lang="ts">
-    export let imageUrl: string;
-    export let mobileImageUrl: string;
-    export let title: string;
-    export let description: string;
+  interface Props {
+    imageUrl: string;
+    mobileImageUrl: string;
+    title: string;
+    description: string;
+  }
+
+  let {
+    imageUrl,
+    mobileImageUrl,
+    title,
+    description
+  }: Props = $props();
 </script>
   
 <div class="relative w-screen h-screen overflow-hidden overlay-container" role="img" aria-label={title}>

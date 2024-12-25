@@ -1,9 +1,19 @@
-<script>
-    export let title = '';
-    export let subtitle = '';
-    export let description = '';
-    export let buttonText = 'Learn More';
-    export let imageUrl = '';
+<script lang="ts">
+  interface Props {
+    title?: string;
+    subtitle?: string;
+    description?: string;
+    buttonText?: string;
+    imageUrl?: string;
+  }
+
+  let {
+    title = '',
+    subtitle = '',
+    description = '',
+    buttonText = 'Learn More',
+    imageUrl = ''
+  }: Props = $props();
 </script>
   
 <section 

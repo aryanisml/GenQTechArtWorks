@@ -4,23 +4,23 @@
   import ArtworksSlider from '../components/ArtworksSlider.svelte';
   import GalleryInfo from '../components/GalleryInfo.svelte';
 
-  let heroData = {
+  let heroData = $state({
     imageUrl: '',
     mobileImageUrl: '',
     title: '',
     description: ''
-  };
+  });
 
-  let artworks = [];
-  let galleryInfo = {
+  let artworks = $state([]);
+  let galleryInfo = $state({
     title: '',
     subtitle: '',
     description: '',
     buttonText: '',
     imageUrl: ''
-  };
+  });
 
-  let dataLoaded = false; // Track when data is loaded
+  let dataLoaded = $state(false); // Track when data is loaded
 
   // Fetch data from data.json file located in the public folder
   onMount(async () => {

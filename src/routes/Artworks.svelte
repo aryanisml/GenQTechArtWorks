@@ -2,7 +2,7 @@
   import { onMount } from 'svelte';
   import ArtworkCard from '../components/ArtworkCard.svelte';
 
-  let artworks = [];
+  let artworks = $state([]);
   let categories = [];
 
   onMount(async () => {

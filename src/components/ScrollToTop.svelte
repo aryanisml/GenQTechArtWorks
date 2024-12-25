@@ -1,6 +1,6 @@
 <script>
     import { onMount } from 'svelte';
-    let isVisible = false;
+    let isVisible = $state(false);
   
     // Show the button only after scrolling down a bit
     const checkScroll = () => {
@@ -57,7 +57,7 @@
   <!-- Scroll-to-top button -->
   <div
     class="scroll-to-top {isVisible ? '' : 'hidden'}"
-    on:click={scrollToTop}
+    onclick={scrollToTop}
     aria-label="Scroll to top"
   >
     <svg viewBox="0 0 24 24" fill="currentColor">

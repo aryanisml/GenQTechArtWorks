@@ -1,10 +1,10 @@
 <script lang="ts">
   import { onMount } from 'svelte';
 
-  let artwork;
+  let artwork = $state();
   let artworkId;
-  let currentUrl = '';
-  let mobileNumber = '';
+  let currentUrl = $state('');
+  let mobileNumber = $state('');
 
   onMount(async () => {
     // Scroll to the top of the page when the component mounts

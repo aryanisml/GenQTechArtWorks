@@ -1,5 +1,9 @@
-<script>
-    export let address = "410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063";
+<script lang="ts">
+    interface Props {
+        address?: string;
+    }
+
+    let { address = "410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063" }: Props = $props();
 </script>
 
 <section class="contact-container bg-gray-100 p-8 rounded-lg shadow-lg">

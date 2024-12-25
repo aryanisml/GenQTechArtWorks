@@ -3,8 +3,8 @@
   import { theme } from './store';
   import { link } from 'svelte-spa-router';
 
-  let menuOpen = false;
-  let menuList :any=[];
+  let menuOpen = $state(false);
+  let menuList :any=$state([]);
 
   // Toggle theme between light and dark modes
   function toggleTheme() {

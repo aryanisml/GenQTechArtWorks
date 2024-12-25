@@ -1,8 +1,12 @@
-<script>
+<script lang="ts">
      import { createEventDispatcher } from 'svelte';
 
-export let totalPages = 1;
-export let currentPage = 1;
+    interface Props {
+        totalPages?: number;
+        currentPage?: number;
+    }
+
+    let { totalPages = 1, currentPage = 1 }: Props = $props();
 const dispatch = createEventDispatcher();
 
 function changePage(page) {
@@ -12,15 +16,15 @@ function changePage(page) {
 
 <div class="pagination">
     {#if currentPage > 1}
-        <button on:click={() => changePage(currentPage - 1)}>&laquo; Prev</button>
+        <button onclick={() => changePage(currentPage - 1)}>&laquo; Prev</button>
     {/if}
 
     {#each Array(totalPages) as _, i}
-        <button on:click={() => changePage(i + 1)} class="{currentPage === i + 1 ? 'active' : ''}">{i + 1}</button>
+        <button onclick={() => changePage(i + 1)} class="{currentPage === i + 1 ? 'active' : ''}">{i + 1}</button>
     {/each}
 
     {#if currentPage < totalPages}
-        <button on:click={() => changePage(currentPage + 1)}>Next &raquo;</button>
+        <button onclick={() => changePage(currentPage + 1)}>Next &raquo;</button>
     {/if}
 </div>
 
