@@ -1,7 +1,7 @@
 id,imageUrl,artist,title,medium,dimensions,style,size,layout
-1,/asset/HiddenBeauty2.jpeg,Sampa Paul,Hidden Beauty - 1,"Mixed media on canvas","42"" x 72""",Realism,Large,Portrait
-2,/asset/HiddenBeauty2.jpeg,Sampa Paul,Hidden Beauty - 2,"Mixed media on canvas","42"" x 72""",Realism,Large,Landscape
-3,/asset/HiddenBeauty3.jpeg,Sampa Paul,Hidden Beauty - 3,Mixed media on canvas,"36"" x 48""",Realism,Medium,Landscape
-4,/asset/HiddenBeauty4.jpeg,Sampa Paul,Hidden Beauty - 4,"Mixed media on canvas","48"" x 60""",Realism,Large,Landscape
-5,/asset/HiddenBeauty5.jpeg,Sampa Paul,Hidden Beauty - 5,"Mixed media on canvas","48"" x 72""",Realism,Large,Landscape
+1,/asset/HiddenBeauty2.jpeg,,Hidden Beauty - 1,"Mixed media on canvas","42"" x 72""",Realism,Large,Portrait
+2,/asset/HiddenBeauty2.jpeg,,Hidden Beauty - 2,"Mixed media on canvas","42"" x 72""",Realism,Large,Landscape
+3,/asset/HiddenBeauty3.jpeg,,Hidden Beauty - 3,Mixed media on canvas,"36"" x 48""",Realism,Medium,Landscape
+4,/asset/HiddenBeauty4.jpeg,,Hidden Beauty - 4,"Mixed media on canvas","48"" x 60""",Realism,Large,Landscape
+5,/asset/HiddenBeauty5.jpeg,,Hidden Beauty - 5,"Mixed media on canvas","48"" x 72""",Realism,Large,Landscape
 

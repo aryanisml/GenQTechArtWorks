@@ -9,7 +9,7 @@
     {
       "id": 1,
       "imageUrl": "/asset/HiddenBeauty2.jpeg",
-      "artist": "Sampa Paul",
+      "artist": "",
       "title": "Hidden Beauty - 1",
       "medium": "Mixed media on canvas",
       "dimensions": "42\" x 72\"",
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "imageUrl": "/asset/HiddenBeauty2.jpeg",
-      "artist": "Sampa Paul",
+      "artist": "",
       "title": "Hidden Beauty - 2",
       "medium": "Mixed media on canvas",
       "dimensions": "42\" x 72\"",
@@ -31,7 +31,7 @@
     {
       "id": 3,
       "imageUrl": "/asset/HiddenBeauty3.jpeg",
-      "artist": "Sampa Paul",
+      "artist": "",
       "title": "Hidden Beauty - 3",
       "medium": "Mixed media on canvas",
       "dimensions": "36\" x 48\"",
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "imageUrl": "/asset/HiddenBeauty4.jpeg",
-      "artist": "Sampa Paul",
+      "artist": "",
       "title": "Hidden Beauty - 4",
       "medium": "Mixed media on canvas",
       "dimensions": "48\" x 60\"",
@@ -53,7 +53,7 @@
     {
       "id": 5,
       "imageUrl": "/asset/HiddenBeauty5.jpeg",
-      "artist": "Sampa Paul",
+      "artist": "",
       "title": "Hidden Beauty - 5",
       "medium": "Mixed media on canvas",
       "dimensions": "48\" x 72\"",
