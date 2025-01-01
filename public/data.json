@@ -2,8 +2,8 @@
   "heroSection": {
     "imageUrl": "/asset/HiddenBeauty2.jpeg",
     "mobileImageUrl": "/asset/HiddenBeauty.jpeg",
-    "title": "Modern & Contemporary Art",
-    "description": "Delhi-based art gallery presents a platform for renowned and emerging artists to display their works. Gallerie Nvya nurtures art lovers and artists and exhibits captivating Modern and Contemporary works of art. Nvya is fascinating both for art enthusiasts and for connoisseurs."
+    "title": "HIDDEN BEAUTY - Paintings By Sampa Paul",
+    "description": "Humans have evolved from the latent memories ancestral past which explains similar modes of functioning patterns of behaviour that occurs across the globe. This understanding of human personality always fascinates me. As a student of Art College I was drawn into painting masks, Fathoming various complexities of human mind in diverse and challenging situations. My drawings were a narrative of innumerable shades of personality, from dark, mysterious, sensuous, scary to happy, joyful, compassionate, serene to a diverse spectrum. <br/> A midst of all the events, becoming a mother was a very special life event. I was reborn with the birth of my children. I experienced the power of creating that mother nature has bestowed. Flowers did the magic Flowers did the magic of bridging the gap between the feelings of power and un-masked emotions – strength and vulnerability. They helped me cover and uncover the emotions and speak my heart bigger."
   },
   "artworks": [
     {
@@ -63,11 +63,11 @@
     }
   ],
   "galleryInfo": {
-    "title": "GALLERIE NVYA",
-    "subtitle": "Most Dynamic Art Gallery in India",
-    "description": "Gallerie Nvya is among the finest art galleries in India. Art has no boundaries and there is no limit to artistic caliber in India. Therefore, we make sure to manage the best art gallery in India that brings the veterans and descendants of the league on one platform. The variety of artwork at our gallery is vast, which takes us to the best art galleries in India. Our art gallery in Delhi exhibits popular pieces of artwork from renowned artists, such as Jayasri Burman, Jamini Roy, M F Husain, Jogen Chowdhury, K S Radhakrishnan, Manu Parekh, Sakti Burman, Anjolie Ela Menon, to name a few.",
+    "title": "SAMPA PAUL",
+    "subtitle": "Artworks by Sampa Paul",
+    "description": "Sampa Paul is an indian Artist, graduated form Government College or Arts & Craft. She started her career from 2004 in Mumbai and participated in various exhibitions across India. Her paintings collection are available in various art galleries in India & Abroad",
     "buttonText": "Learn More",
-    "imageUrl": "/asset/HiddenBeauty2.jpeg"
+    "imageUrl": "/asset/sampa.jpeg"
   },
   "artworkCategories": [
     {
@@ -139,23 +139,19 @@
   "menu": [
     {
       "id": 1,
-      "name": "ARTWORKS"
+      "name": "HOME"
     },
     {
       "id": 2,
-      "name": "ARTISTS"
+      "name": "PAINTINGS"
     },
     {
       "id": 3,
-      "name": "EXHIBTIONS"
+      "name": "PROFILE"
     },
     {
       "id": 4,
-      "name": "ADVISORY"
-    },
-    {
-      "id": 5,
-      "name": "BLOG"
+      "name": "WRITEUP"
     },
     {
       "id": 6,

@@ -30,7 +30,7 @@
 <nav class="fixed top-0 left-0 right-0 bg-light-bg dark:bg-dark-bg shadow-md z-50 font-sans" aria-label="Main Navigation">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-16">
     <!-- Brand / Logo -->
-    <a use:link href="/" class="text-2xl font-bold text-light-text dark:text-dark-text" aria-label="GenQTech Home">GenQTech</a>
+    <a use:link href="/" class="text-2xl font-bold text-light-text dark:text-dark-text" aria-label="Sampa Paul Home">Sampa Paul</a>
 
     <!-- Hamburger Icon for Mobile with accessible toggle button -->
     <button 
@@ -69,8 +69,8 @@
     <div class="md:hidden bg-light-bg dark:bg-dark-bg shadow-lg" id="mobile-menu" role="menu">
       <div class="flex flex-col items-start space-y-4 px-4 py-4">
         <a use:link href="/" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Home">Home</a>
-        <a use:link href="/artworks" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Artworks">Artworks</a>
-        <a use:link href="/artists" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Artists">Artists</a>
+        <a use:link href="/artworks" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Paintings">Paintings</a>
+        <!-- <a use:link href="/artists" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Artists">Artists</a> -->
         <a use:link href="/contact" class="menu-item-mobile" onclick={() => (menuOpen = false)} role="menuitem" aria-label="Contact">Contact</a>
       </div>
     </div>

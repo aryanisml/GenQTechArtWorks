@@ -7,16 +7,16 @@
         
         <!-- Company Info and Address -->
         <div class="space-y-2">
-            <h1 class="text-xl font-bold">GenQTech</h1>
+            <h1 class="text-xl font-bold">Sampa Paul</h1>
             <address class="not-italic">
-                <p>Address: 410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063</p>
-                <p class="flex justify-center md:justify-start items-center">
+                <p>Mumbai</p>
+                <!-- <p class="flex justify-center md:justify-start items-center">
                     <span class="material-icons" aria-hidden="true">phone</span> 
-                    <a href="tel:+912240131122" aria-label="Phone number">+91 – 22 40131122</a>
-                </p>
+                    <a href="tel:+91224013888" aria-label="Phone number">+91 – 22 40139922</a>
+                </p> -->
                 <p class="flex justify-center md:justify-start items-center">
                     <span class="material-icons" aria-hidden="true">email</span> 
-                    <a href="mailto:contact@genqtech.com" aria-label="Email contact">contact@genqtech.com</a>
+                    <a href="mailto:contact@artisitsampapaul.com" aria-label="Email contact">contact@artisitsampapaul.com</a>
                 </p>
             </address>
         </div>
@@ -25,12 +25,12 @@
         <div class="space-y-2">
             <h2 class="font-semibold mb-2">Quick Links</h2>
             <ul class="space-y-1" role="list">
-                <li><a href="/about" class="hover:underline focus:underline" aria-label="About GenQTech">About Us</a></li>
-                <li><a href="/blog" class="hover:underline focus:underline" aria-label="GenQTech Blog">Blog</a></li>
-                <li><a href="/press" class="hover:underline focus:underline" aria-label="GenQTech Press Coverage">Press Coverage</a></li>
-                <li><a href="/testimonials" class="hover:underline focus:underline" aria-label="GenQTech Testimonials">Testimonials</a></li>
-                <li><a href="/work-with-us" class="hover:underline focus:underline" aria-label="Work With GenQTech">Work With Us</a></li>
-                <li><a href="#/contact" class="hover:underline focus:underline" aria-label="Contact GenQTech">Contact Us</a></li>
+                <li><a href="/about" class="hover:underline focus:underline" aria-label="About Sampa Paul">About Us</a></li>
+                <li><a href="/blog" class="hover:underline focus:underline" aria-label="Sampa Paul Blog">Blog</a></li>
+                <li><a href="/press" class="hover:underline focus:underline" aria-label="Sampa Paul Press Coverage">Press Coverage</a></li>
+                <li><a href="/testimonials" class="hover:underline focus:underline" aria-label="Sampa Paul Testimonials">Testimonials</a></li>
+                <li><a href="/work-with-us" class="hover:underline focus:underline" aria-label="Work With Sampa Paul">Work With Us</a></li>
+                <li><a href="#/contact" class="hover:underline focus:underline" aria-label="Contact Sampa Paul">Contact Us</a></li>
             </ul>
         </div>
 
@@ -38,10 +38,10 @@
         <div class="space-y-4">
             <h2 class="font-semibold mb-2">Follow Us</h2>
             <div class="flex justify-center md:justify-start space-x-4">
-                <a href="https://facebook.com" target="_blank" aria-label="Visit GenQTech on Facebook" rel="noopener noreferrer">
+                <a href="https://facebook.com" target="_blank" aria-label="Visit Sampa Paul on Facebook" rel="noopener noreferrer">
                     <span class="material-icons" aria-hidden="true">facebook</span>
                 </a>
-                <a href="https://instagram.com" target="_blank" aria-label="Visit GenQTech on Instagram" rel="noopener noreferrer">
+                <a href="https://instagram.com" target="_blank" aria-label="Visit Sampa Paul on Instagram" rel="noopener noreferrer">
                     <span class="material-icons" aria-hidden="true">instagram</span>
                 </a>
             </div>
@@ -58,7 +58,7 @@
 
     <!-- Footer Bottom -->
     <div class="container mx-auto mt-8 border-t border-gray-700 pt-4 text-center text-xs">
-        <p>&copy; 2024 GenQTech. Website Maintenance by GenQTech</p>
+        <p>&copy; 2024 Sampa Paul. Website Maintenance by www.genqtech.com</p>
     </div>
 </footer>
 

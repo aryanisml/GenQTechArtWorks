@@ -3,7 +3,7 @@
         address?: string;
     }
 
-    let { address = "410, Conwood Paragaon, Opp Indian Oil Petrol Pump, Near Cam Industrial Estate, Goregaon East, Mumbai 400063" }: Props = $props();
+    let { address = "Mumbai" }: Props = $props();
 </script>
 
 <section class="contact-container bg-gray-100 p-8 rounded-lg shadow-lg">
@@ -23,7 +23,7 @@
             style="border:0;" 
             allowfullscreen=""
             loading="lazy"
-            title="OpenStreetMap of GenQTech Location"
+            title="OpenStreetMap of Sampa Paul Location"
         ></iframe>
     </div>
 </section>

@@ -12,25 +12,28 @@
   // Define routes
   const routes = {
     '/': Home,
-    '/artworks': Artworks,
+    '/home': Home,
     '/contact': Contact,
-    '/artists' : Artists,
-    '/artists/details/:id': Detail 
+    '/paintings' : Artists,
+    '/artists/details/:id': Detail ,
+    '/profile': Home,
+    '/writeup': Home
+
   };
 
   onMount(() => {
     // Tawk.to script integration
-    var Tawk_API = Tawk_API || {};
-    var Tawk_LoadStart = new Date();
-    (function () {
-      var s1 = document.createElement("script");
-      var s0 = document.getElementsByTagName("script")[0];
-      s1.async = true;
-      s1.src = 'https://embed.tawk.to/6732dc9f2480f5b4f59c0f61/1icfark8u';
-      s1.charset = 'UTF-8';
-      s1.setAttribute('crossorigin', '*');
-      s0.parentNode.insertBefore(s1, s0);
-    })();
+    // var Tawk_API = Tawk_API || {};
+    // var Tawk_LoadStart = new Date();
+    // (function () {
+    //   var s1 = document.createElement("script");
+    //   var s0 = document.getElementsByTagName("script")[0];
+    //   s1.async = true;
+    //   s1.src = 'https://embed.tawk.to/6732dc9f2480f5b4f59c0f61/1icfark8u';
+    //   s1.charset = 'UTF-8';
+    //   s1.setAttribute('crossorigin', '*');
+    //   s0.parentNode.insertBefore(s1, s0);
+    // })();
   });
 </script>
 
@@ -61,6 +64,7 @@
   .content {
     flex: 1;
     padding-top: 5rem; /* adjust based on Navbar height */
+    background-color: #f8f8f8;
     width: 100%;
   }
 
