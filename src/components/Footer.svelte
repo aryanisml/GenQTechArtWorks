@@ -28,9 +28,9 @@
                 <li><a href="/about" class="hover:underline focus:underline" aria-label="About Sampa Paul">About Us</a></li>
                 <li><a href="/blog" class="hover:underline focus:underline" aria-label="Sampa Paul Blog">Blog</a></li>
                 <li><a href="/press" class="hover:underline focus:underline" aria-label="Sampa Paul Press Coverage">Press Coverage</a></li>
-                <li><a href="/testimonials" class="hover:underline focus:underline" aria-label="Sampa Paul Testimonials">Testimonials</a></li>
+                <!-- <li><a href="/testimonials" class="hover:underline focus:underline" aria-label="Sampa Paul Testimonials">Testimonials</a></li>
                 <li><a href="/work-with-us" class="hover:underline focus:underline" aria-label="Work With Sampa Paul">Work With Us</a></li>
-                <li><a href="#/contact" class="hover:underline focus:underline" aria-label="Contact Sampa Paul">Contact Us</a></li>
+                <li><a href="#/contact" class="hover:underline focus:underline" aria-label="Contact Sampa Paul">Contact Us</a></li> -->
             </ul>
         </div>
 
@@ -38,20 +38,20 @@
         <div class="space-y-4">
             <h2 class="font-semibold mb-2">Follow Us</h2>
             <div class="flex justify-center md:justify-start space-x-4">
-                <a href="https://facebook.com" target="_blank" aria-label="Visit Sampa Paul on Facebook" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/share/14yRF78Zvo/?mibextid=LQQJ4d" target="_blank" aria-label="Visit Sampa Paul on Facebook" rel="noopener noreferrer">
                     <span class="material-icons" aria-hidden="true">facebook</span>
                 </a>
-                <a href="https://instagram.com" target="_blank" aria-label="Visit Sampa Paul on Instagram" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/sampa7730?igsh=aHVnZ245dW03eHhq" target="_blank" aria-label="Visit Sampa Paul on Instagram" rel="noopener noreferrer">
                     <span class="material-icons" aria-hidden="true">instagram</span>
                 </a>
             </div>
             <div class="mt-4">
-                <h2 class="font-semibold mb-2">Payment Options</h2>
+                <!-- <h2 class="font-semibold mb-2">Payment Options</h2>
                 <div class="flex justify-center md:justify-start space-x-2">
                     <img loading="lazy" src="https://www.gallerienvya.com/wp-content/uploads/2019/02/visa.png" alt="Visa payment accepted" class="w-8 h-auto" />
                     <img loading="lazy" src="https://www.gallerienvya.com/wp-content/uploads/2019/02/mastro-card.png" alt="MasterCard payment accepted" class="w-8 h-auto" />
                     <img  loading="lazy" src="https://www.gallerienvya.com/wp-content/uploads/2019/02/mastro.png" alt="Maestro payment accepted" class="w-8 h-auto" />
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
