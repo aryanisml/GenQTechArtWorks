@@ -9,6 +9,8 @@
   import ScrollToTop from './components/ScrollToTop.svelte';
   import Artists from './components/Artists.svelte';
   import Detail from './components/Detail.svelte';
+  import ArtistsProfile from './components/ArtistsProfile.svelte';
+  import ArtBlog from './components/ArtBlog.svelte';
   // Define routes
   const routes = {
     '/': Home,
@@ -16,8 +18,8 @@
     '/contact': Contact,
     '/paintings' : Artists,
     '/artists/details/:id': Detail ,
-    '/profile': Home,
-    '/writeup': Home
+    '/profile': ArtistsProfile,
+    '/writeup': ArtBlog
 
   };
 

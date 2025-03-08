@@ -25,8 +25,8 @@
         <div class="space-y-2">
             <h2 class="font-semibold mb-2">Quick Links</h2>
             <ul class="space-y-1" role="list">
-                <li><a href="/about" class="hover:underline focus:underline" aria-label="About Sampa Paul">About Us</a></li>
-                <li><a href="/blog" class="hover:underline focus:underline" aria-label="Sampa Paul Blog">Blog</a></li>
+                <li><a href="#/profile" class="hover:underline focus:underline" aria-label="About Sampa Paul">About Us</a></li>
+                <li><a href="about#/writeup" class="hover:underline focus:underline" aria-label="Sampa Paul Blog">Blog</a></li>
                 <li><a href="/press" class="hover:underline focus:underline" aria-label="Sampa Paul Press Coverage">Press Coverage</a></li>
                 <!-- <li><a href="/testimonials" class="hover:underline focus:underline" aria-label="Sampa Paul Testimonials">Testimonials</a></li>
                 <li><a href="/work-with-us" class="hover:underline focus:underline" aria-label="Work With Sampa Paul">Work With Us</a></li>

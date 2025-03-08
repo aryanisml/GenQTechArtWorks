@@ -60,6 +60,116 @@
       "style": "Realism",
       "size": "Large",
       "layout": "Landscape"
+    },
+    {
+      "id": 6,
+      "imageUrl": "/asset/HiddenBeauty6.jpg",
+      "artist": "",
+      "title": "Hidden Beauty - 6",
+      "medium": "Mixed media on canvas",
+      "dimensions": "48\" x 60\"",
+      "style": "Realism",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 7,
+      "imageUrl": "/asset/HiddenBeauty7.jpg",
+      "artist": "",
+      "title": "Hidden Beauty - 7",
+      "medium": "Mixed media on canvas",
+      "dimensions": "48\" x 48\"",
+      "style": "Realism",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 8,
+      "imageUrl": "/asset/HiddenBeauty8.jpg",
+      "artist": "",
+      "title": "Hidden Beauty - 8",
+      "medium": "Mixed media on canvas",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
+    },
+    {
+      "id": 19,
+      "imageUrl": "/asset/HiddenBeauty19.jpg",
+      "artist": "",
+      "title": "Hidden Beauty - 19",
+      "medium": "Mixed media on canvas",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
+    },
+    {
+      "id": 10,
+      "imageUrl": "/asset/HiddenBeauty10.jpg",
+      "artist": "",
+      "title": "Meet up one",
+      "medium": "",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
+    },
+    {
+      "id": 11,
+      "imageUrl": "/asset/HiddenBeauty11.jpg",
+      "artist": "",
+      "title": "Meet up two",
+      "medium": "",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
+    },
+    {
+      "id": 12,
+      "imageUrl": "/asset/HiddenBeauty12.jpg",
+      "artist": "",
+      "title": "Meet up three",
+      "medium": "",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
+    },
+    {
+      "id": 13,
+      "imageUrl": "/asset/HiddenBeauty13.jpg",
+      "artist": "",
+      "title": "Meet up four",
+      "medium": "",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
+    },
+    {
+      "id": 15,
+      "imageUrl": "/asset/HiddenBeauty15.jpg",
+      "artist": "",
+      "title": "Meet up five",
+      "medium": "",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
+    },
+    {
+      "id": 16,
+      "imageUrl": "/asset/HiddenBeauty16.jpg",
+      "artist": "",
+      "title": "Meet up six",
+      "medium": "",
+      "dimensions": "",
+      "style": "",
+      "size": "",
+      "layout": ""
     }
   ],
   "galleryInfo": {

@@ -27,7 +27,7 @@
       <h2 class="text-xl text-gray-600 italic mb-4">{subtitle}</h2>
       <p id="gallery-info-description" class="text-gray-700 mb-6 leading-relaxed">{description}</p>
       <a 
-          href="/" 
+          href="#/profile" 
           class="inline-block bg-pink-500 text-white font-semibold px-6 py-3 rounded-full transition duration-200 hover:bg-pink-600 focus:ring-2 focus:ring-pink-500 focus:ring-opacity-50" 
           aria-label={`Learn more about ${title}`}
       >
