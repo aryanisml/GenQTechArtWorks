@@ -48,7 +48,7 @@
 
 <div class="container">
     <!-- Filter Component with event listener -->
-    <Filter {filters} on:filterChange={handleFilterChange} />
+    <!-- <Filter {filters} on:filterChange={handleFilterChange} /> -->
 
     <!-- Artwork Cards Grid -->
     <div class="artworks-grid">
