@@ -38,7 +38,8 @@
   
               <!-- Hover overlay with 'View Details' text -->
               <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300" aria-hidden="true">
-                <span class="text-lg font-semibold text-white">View Details</span>
+                <!-- <span class="text-lg font-semibold text-white">View Details</span> -->
+                <a href="#/artists/details/{artwork.id}" class="view-details-link">View Details</a>
               </div>
             </div>
   
