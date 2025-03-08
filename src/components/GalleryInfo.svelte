@@ -41,7 +41,7 @@
          loading="lazy"
           src={imageUrl} 
           alt={`Image of ${title}`} 
-          class="rounded-lg shadow-md object-cover w-full h-full max-h-96" 
+          class="rounded-lg shadow-md object-cover w-full h-full max-h-120" 
       />
       <figcaption class="sr-only">{`Image depicting ${title}`}</figcaption>
     </figure>
