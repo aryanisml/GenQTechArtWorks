@@ -9,12 +9,14 @@
 <section class="contact-container bg-gray-100 p-8 rounded-lg shadow-lg">
     <h2 class="text-3xl font-bold text-gray-800 mb-6">Contact Us</h2>
 
-    <div class="contact-details mb-8">
+    <p class="flex justify-center md:justify-start items-center">
+        <a href="mailto:SampaPaul.sp@gmail.com" aria-label="Email contact">SampaPaul.sp@gmail.com</a>
+    </p>
+    <!-- <div class="contact-details mb-8">
         <h3 class="text-xl font-semibold">Our Address</h3>
         <p>{address}</p>
     </div>
 
-    <!-- OpenStreetMap Embed -->
     <div class="map-container rounded-lg overflow-hidden shadow-lg">
         <iframe 
             src="https://www.openstreetmap.org/export/embed.html?bbox=72.8654,19.152,72.9867,19.2566&layer=mapnik&marker=19.2183,72.9250" 
@@ -25,7 +27,7 @@
             loading="lazy"
             title="OpenStreetMap of Sampa Paul Location"
         ></iframe>
-    </div>
+    </div> -->
 </section>
 
 <style>

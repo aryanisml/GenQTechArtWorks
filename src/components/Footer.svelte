@@ -16,7 +16,7 @@
                 </p> -->
                 <p class="flex justify-center md:justify-start items-center">
                     <span class="material-icons" aria-hidden="true">email</span> 
-                    <a href="mailto:contact@artisitsampapaul.com" aria-label="Email contact">contact@artisitsampapaul.com</a>
+                    <a href="mailto:SampaPaul.sp@gmail.com" aria-label="Email contact">SampaPaul.sp@gmail.com</a>
                 </p>
             </address>
         </div>

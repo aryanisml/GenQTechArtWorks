@@ -46,7 +46,7 @@
         <p class="style">{artwork.style}</p>
 
         <!-- Availability and WhatsApp -->
-        <div class="availability">
+        <!-- <div class="availability">
           <span>AVAILABLE</span>
           <a
             href={`https://wa.me/${mobileNumber}?text=${encodeURIComponent(`Hello, I'm interested in this artwork. Here is the link: ${currentUrl}`)}`}
@@ -56,18 +56,18 @@
           >
             <i class="fab fa-whatsapp"></i>
           </a>
-        </div>
+        </div> -->
 
         <!-- Button Group -->
-        <div class="button-group">
+        <!-- <div class="button-group"> -->
           <!-- Price on Request Button -->
-          <button class="btn-price">
+          <!-- <button class="btn-price">
             <i class="fas fa-tag"></i> Price on Request
-          </button>
+          </button> -->
 
           <!-- Pay Now Button -->
           <!-- <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_PUzyKBL0X0oBkT" async> </script> </form> -->
-        </div>
+        <!-- </div> -->
       </div>
     </div>
   {/if}
